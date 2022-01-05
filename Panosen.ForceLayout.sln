@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.ForceLayout", "Panosen.ForceLayout\Panosen.ForceLayout.csproj", "{EF26FF5D-A8C5-4033-8E8D-79C9142F7EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.ForceLayout.MSTest", "Panosen.ForceLayout.MSTest\Panosen.ForceLayout.MSTest.csproj", "{5FD6083E-75C0-4C1F-AE36-9A1CC8923F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF26FF5D-A8C5-4033-8E8D-79C9142F7EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF26FF5D-A8C5-4033-8E8D-79C9142F7EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF26FF5D-A8C5-4033-8E8D-79C9142F7EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF26FF5D-A8C5-4033-8E8D-79C9142F7EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD6083E-75C0-4C1F-AE36-9A1CC8923F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD6083E-75C0-4C1F-AE36-9A1CC8923F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD6083E-75C0-4C1F-AE36-9A1CC8923F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD6083E-75C0-4C1F-AE36-9A1CC8923F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1DFD65-9652-481B-8E96-D39B812971AD}
+	EndGlobalSection
+EndGlobal
